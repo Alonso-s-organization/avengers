@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skull
-* Venom
+* Capitan América
